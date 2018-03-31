@@ -1,0 +1,163 @@
+.float{
+
+	float: left;
+}
+
+.img{
+
+	width: 250px; height: 100px;
+}
+.navbar-default {
+    background-color: #840606;
+    
+}
+.navbar {
+
+    min-height: 125px;
+}
+.navbar-default {
+    background-color: #840606;
+    padding-bottom: 65px;
+}
+.footer{
+	background-color: #840606;
+	padding-bottom: 10px;
+	padding-left: 108px;
+}
+.txt{
+	padding-top: 24px;
+	color: white;
+}
+.icon{
+
+	list-style: none;
+	float: left;
+}
+.space{
+
+	padding-bottom: 90px
+}
+.navbar-right{
+
+	padding-top: 40px;
+	color: red;
+}
+.hpad{
+
+	padding-bottom: 20px;
+	margin-left: 141px;
+}
+.space1{
+
+	padding-bottom: 200px;
+}
+.start{
+
+	width: 100px; height: 100px;
+	margin-left: 102px;
+	margin-bottom: 20px
+
+
+}
+
+.fa-ul > li{
+
+	list-style: none;
+	float: left;
+	margin-top: 29px;
+	
+}
+
+.icon ul > li > a {
+
+	padding-left: 30px;
+	padding-top: 30px;
+	
+}	
+
+.icon{
+
+	padding-left:  215px;
+}
+
+.think{
+
+	margin-left: 57px;
+	margin-right: 300px;
+}
+
+.container {
+    width: 1096px;
+    margin-right: 173px;
+}
+
+.row {
+    margin-right: 48px;
+    margin-left: -39px;
+}
+
+.col-lg-12 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-left: 63px;
+}
+
+.form{
+
+	margin-left: 141px;
+}
+
+.form2{
+
+	margin-left: 70px;
+}
+
+.hpad1{
+
+	margin-left: 70px;
+}
+
+.hero {
+	height: 800px;
+	background: url('images/office.jpg') cover center center;
+	background-repeat: no-repeat;
+	margin-top: -145px;
+}
+
+.cover{
+
+	height: 801px;
+	background-color: #ef081d80;
+	margin-left: -15px;
+	margin-right: -14px;
+	margin-top: -11px;
+}
+
+.text{ 
+
+	text-align: center;
+}
+
+.kawo{
+
+	text-align: center;
+	padding-top: 200px;
+	font-size: 73px;
+	color: #f1eaea;
+}
+
+  .kawotxt{
+
+  	color: #f1eaea;
+  	font-size: 20px;
+}
+
+.col-md-6{
+
+	width: 73%;
+}
+
+
+	
