@@ -159,5 +159,10 @@
 	width: 73%;
 }
 
+.borders{
 
-	
+	border: 0.2px solid red;
+	border-spacing: 10px;
+}
+
+
